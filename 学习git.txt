@@ -1,2 +1,6 @@
 xeuasdfashdfhj11111
-测试 fenzhi 
+<<<<<<< HEAD
+测试 分支 
+=======
+ceshi 分支
+>>>>>>> feature
